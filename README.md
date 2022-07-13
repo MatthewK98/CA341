@@ -1,2 +1,4 @@
-# CA341
-CA341 Comparative Programming Languages
+# Results
+* Assignment1 : 64%
+* Assignment2 : 68%
+* Essay: 70%
